@@ -1,7 +1,7 @@
 /* #include <iostream>
 using namespace std;
 
-class Phone{
+class Phone{ 
     public: 
         string name; 
         string company; 
