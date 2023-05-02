@@ -4,7 +4,7 @@ using namespace std;
 class Phone{ 
     public: 
         string name; 
-        string company; 
+        string company;  
         int modelNum; 
         string modelName;
         Phone(string aName, string aCompany, int aModelNum, string aModelName){
