@@ -2,7 +2,7 @@
 using namespace std;
 
 class Phone{
-    public:
+    public: 
         string name; 
         string company; 
         int modelNum; 
